@@ -183,6 +183,7 @@
 |1026. 보물|[링크](./Python/%EB%B0%B1%EC%A4%80/Silver/1026.%E2%80%85%EB%B3%B4%EB%AC%BC/README.md)|
 |10773. 제로|[링크](./Python/%EB%B0%B1%EC%A4%80/Silver/10773.%E2%80%85%EC%A0%9C%EB%A1%9C/README.md)|
 |10814. 나이순 정렬|[링크](./Python/%EB%B0%B1%EC%A4%80/Silver/10814.%E2%80%85%EB%82%98%EC%9D%B4%EC%88%9C%E2%80%85%EC%A0%95%EB%A0%AC/README.md)|
+|10815. 숫자 카드|[링크](./Python/%EB%B0%B1%EC%A4%80/Silver/10815.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EC%B9%B4%EB%93%9C/README.md)|
 |10828. 스택|[링크](./Python/%EB%B0%B1%EC%A4%80/Silver/10828.%E2%80%85%EC%8A%A4%ED%83%9D/README.md)|
 |10845. 큐|[링크](./Python/%EB%B0%B1%EC%A4%80/Silver/10845.%E2%80%85%ED%81%90/README.md)|
 |11047. 동전 0|[링크](./Python/%EB%B0%B1%EC%A4%80/Silver/11047.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%850/README.md)|
